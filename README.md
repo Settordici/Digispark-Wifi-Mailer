@@ -6,5 +6,5 @@ You don't need to be administrator to steal passwords.
 The code is working on the latest version of Windows 10 and it' s not sure that it will work on old versions.
 
 # Tips
-If the computer is really slow, maybe you'll need to change the delay in the code
+If the computer is really slow, maybe you'll need to change the delay in the code.
 Using a shorter email will reduce the time of the code
